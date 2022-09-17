@@ -1,0 +1,37 @@
+*{
+   color: black;
+}
+
+h2,h3 {
+   color: rgb(104, 175, 85)
+ }
+
+.list ol li a, 
+.list ol li {
+   color: blue;
+}
+
+#chepter-freelans h2{
+   color: rgb(243, 235, 8)
+}
+
+.lesson{
+   color: rgb(249, 22, 82);
+}
+
+.chapter.fop h3{
+color: blueviolet;   
+}
+
+.contract > p{
+   color : pink;
+}
+
+.good-contract h3 + p{
+   color:orange;
+}
+
+.register-fop li ~ li{
+   color: chartreuse;
+ }
+
